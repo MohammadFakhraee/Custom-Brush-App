@@ -1,5 +1,7 @@
 # Custom-Brush-App
-This app is a training app which focuses on implementing different types of brushes in different types of views such as View, TextView, SurfaceView in order to maximize fps. Brushes like markers, pens, sliced brushes, sprays, patterns, connectives and etc are implemented.
+This app is a training app which focuses on implementing different types of brushes in different types of views such as View, TextView, SurfaceView in order to maximize fps. Brushes like markers, pens, sliced brushes, sprays, patterns, connectives and etc are implemented
+
+Also this application is my first use of Kotlin language in android. 
 
 # Motivation
 Prevously I was working on a painting app which was using 4 brushes and also had a low fps. These were making the app annoying and slow. So I worked on this application for make different types of brushes and test different views in order to improve performance.
